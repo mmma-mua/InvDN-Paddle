@@ -1,1 +1,1 @@
-# DeeperCut-Paddle
+# InvDN-Paddle
